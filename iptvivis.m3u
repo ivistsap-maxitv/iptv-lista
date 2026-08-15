@@ -1,3 +1,4 @@
+#EXTM3U 
 #EXTINF:-1 tvg-id="bitMe.mx@SD" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe (1080p)
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="bitMeLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/JgXQz6c.png" group-title="Entertainment",bitMe Latin America (1080p)
